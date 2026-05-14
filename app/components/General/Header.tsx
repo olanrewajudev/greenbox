@@ -28,7 +28,7 @@ export default function Header() {
           <Link to=''>PRODUCTS</Link>
           <Link to=''>DOWNLOADS</Link>
           <div className=""><Link to='/contact-us'>CONTACT US</Link></div>
-          <div className="bg-blue-900 text-white py-4 px-5"> <Link to='/get-qoute'>GET A QUOTE</Link></div>
+          <div className="bg-blue-900 text-white py-4 px-5"> <Link to='/contact-us'>GET A QUOTE</Link></div>
         </div>
 
       </div>

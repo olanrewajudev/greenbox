@@ -68,7 +68,7 @@ export default function Footer() {
                 )}
             </div>
 
-            <div className='w-11/12 mx-auto'>
+            <div className='w-11/12 mt-5 mb-16 mx-auto'>
                 {/* footer header */}
                 <div className="flex items-center justify-between pb-10 mb-10 border-b">
                     <div className="text-blue-900">

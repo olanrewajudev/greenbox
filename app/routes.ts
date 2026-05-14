@@ -6,7 +6,6 @@ export default [
         route('about-us', './routes/about-us.tsx'),
         route('contact-us', './routes/contact-us.tsx'),
         route('offers', './routes/offer.tsx'),
-        route('get-quote', './routes/get-quote.tsx'),
         route('single-product/:id', './routes/products/single-product.tsx'),
     ]),
     layout('./Layouts/admin-layout.tsx', [
