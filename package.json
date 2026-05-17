@@ -9,6 +9,8 @@
     "typecheck": "react-router typegen && tsc"
   },
   "dependencies": {
+    "@mantine/core": "^9.2.0",
+    "@mantine/hooks": "^9.2.0",
     "@react-router/node": "7.15.0",
     "@react-router/serve": "7.15.0",
     "embla-carousel-auto-scroll": "^8.6.0",

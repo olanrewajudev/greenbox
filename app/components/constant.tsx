@@ -230,3 +230,34 @@ export const offers = [
     origin: ['South Africa', 'Europe', 'UAE'],
   },
 ]
+
+export const productCategories = [
+  {
+    title: 'METALS',
+  },
+  {
+    title: 'AGRICULTURAL',
+  },
+  {
+    title: 'INDUSTRIAL',
+  },
+  {
+    title: 'ENERGY',
+  },
+  {
+    title: 'LIVESTOCK',
+  },
+  {
+    title: 'IT',
+
+  },
+]
+
+export const productlinks = [
+  { items: ['Copper', 'Steel', 'Iron Ore', 'HMS 1', 'HMS 2', 'Aluminium Ingots', 'Scrap Metals'], },
+  { items: ['Rice', 'Sugar', 'Corn'], },
+  { items: ['Machinery', 'Chemicals'], },
+  { items: ['Diesel', 'Crude Oil'], },
+  { items: ['Cattle', 'Goat'], },
+  { items: ['Laptops', 'Servers'], },
+]
